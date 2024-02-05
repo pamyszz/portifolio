@@ -1,4 +1,4 @@
-# Portfólio da Pamela 🌸
+# Portfólio Pamela - Modelo🌸
 
 Bem-vindo ao meu portfólio pessoal, onde compartilho um pouco sobre mim e meu trabalho como desenvolvedora Front-end. Este projeto foi desenvolvido em conjunto com a Alura e Oracle One, resultando em um site que reflete minha personalidade e habilidades.
 
