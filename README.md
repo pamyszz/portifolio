@@ -27,7 +27,7 @@ Se você gostaria de sugerir melhorias ou reportar problemas, sinta-se à vontad
 ## Contato 💌
 Se quiser entrar em contato comigo, você pode me encontrar nas seguintes redes sociais
 - [GitHub](https://github.com/pamyszz)
-- [LinkedIn](https://www.linkedin.com/in/pamelami/)
+- [LinkedIn](https://www.linkedin.com/in/pamydev/)
 - [Instagram](https://www.instagram.com/pamyy_szz)
 
 Obrigada por visitar meu portfólio! Espero que goste do que viu 😊✨
